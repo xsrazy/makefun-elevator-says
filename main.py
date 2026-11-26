@@ -15,6 +15,10 @@ your own regret, one floor at a time. The joke lands fast (the accusation
 is the first sentence), it could only come from an elevator (buttons,
 stopping at every floor), and the punchline turns a universal irritation
 into a tiny roast delivered with a ding.
+
+Revision note: after the first draft the entry was run locally and the
+output file was checked byte for byte against the winning line, with no
+trailing newline, so the program below ships exactly the line above.
 """
 
 import os
